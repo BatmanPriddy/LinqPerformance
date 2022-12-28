@@ -287,3 +287,7 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+LinqBenchmarks/BenchmarkDotNet.Artifacts/results/LinqBenchmarks.Benchmarks-report-github.md
+LinqBenchmarks/BenchmarkDotNet.Artifacts/results/LinqBenchmarks.Benchmarks-report.csv
+LinqBenchmarks/BenchmarkDotNet.Artifacts/results/LinqBenchmarks.Benchmarks-report.html
